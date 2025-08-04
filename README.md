@@ -5,7 +5,7 @@ Este é um projeto de portfólio desenvolvido com foco em design moderno, respon
 ## 🚀 Acesso ao site
 
 Você pode acessar a versão online do projeto através do GitHub Pages:  
-🔗 [Clique aqui para visualizar](https://seu-usuario.github.io/luther-1.0.0/)
+🔗 [Clique aqui para visualizar](https://gabrielgomesdev20.github.io/Portfolio/)
 
 
 ## 🛠️ Tecnologias utilizadas
